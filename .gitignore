@@ -1,4 +1,8 @@
 _site
+_drafts
 .sass-cache
 
 bower_components/
+
+# cloud9
+*.c9/

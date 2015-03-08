@@ -1,9 +1,10 @@
-# Site settings
-title: Travelogue
-email: your-email@domain.com
+# General Settings
+
+title: Charles C. Lee
+email: charleschanlee@gmail.com
 
 baseurl: '' # the subpath of your site, e.g. /blog/
-url: 'http://yourdomain.com' # the base hostname & protocol for your site
+url: 'http://chanchar.github.io/' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown

@@ -8,7 +8,7 @@ layout: default
           {{ content | number_of_words | minus: 180 }}
         {% endcapture %}
         {% unless words contains "-" %}
-          {{ words | plus: 180 | divided_by: 180 | append: " min" }}
+          {{ words | plus: 180 | divided_by: 180 | append: " min read" }}
         {% endunless %}
     </p>
     {% endif %}

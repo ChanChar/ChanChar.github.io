@@ -6,3 +6,6 @@ bower_components/
 
 # cloud9
 *.c9/
+
+# RubyMine
+*.idea/

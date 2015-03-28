@@ -27,7 +27,7 @@ only serves to further encourage me to pursue mine.
 The diversity and amount of content from each meetup has never failed to introduce something new. I have been to talks
 that discussed the inner workings of a large cloud platform to more non-technical talks about the developer's lifestyle.
 I'm constantly enamored when a speaker is able to break down an absolutely complex idea down and present that to a captivated
-audience, experienced or not. Now listening to a talk hasn't made me a professional in any way but it did feel many have
+audience, experienced or not. Now listening to a talk hasn't made me a professional in any way but it has
 significantly sped up my learning process of some of the different elements of programming and problem solving.
 
 # Cons
@@ -47,7 +47,8 @@ out of pocket may be the only way.
 
 # Conclusion
 
-It's has always been a beneficial experience for me. There were disproportionately many more talks that I have enjoyed
+It's has always been a beneficial experience for me. They're a clear reminder of how little I know in the grand scheme of things
+but attending friendly engaging talks are always welcomed. There were disproportionately many more talks that I have enjoyed
 compared to those I haven't. I have had the chance to talk to professionals in many different fields, touch on a countless
 number of topics and have thoroughly enjoyed my time at each meetup.
 

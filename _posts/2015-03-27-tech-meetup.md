@@ -18,9 +18,9 @@ A meetup's size can range from a small handful of people sitting around a round 
 and coffee to thousands of individuals walking about on a campus in the search for another presentation/talk. I personally
 like the smaller varieties of meetups where by the end of the day you know each person by name, have an understanding of
 where they're coming from and feel comfortable sharing jokes in between presentations. I've had the chance to talk to
-professionals from including sys admins, web devs, mobile devs, business heads, and product evangelists. One thing was
-clear in most of these individuals, they're passionate about what they're doing and hearing about what they're working on
-only serves to further encourage me to pursue mine.
+professionals including sys admins, web devs, mobile devs, business heads, and product evangelists. One thing was
+clear in most of these individuals, they're passionate about what they do and hearing about what they're working on
+only serves to further encourage me to pursue my interest in programming.
 
 **Learn, learn, learn**
 
@@ -28,7 +28,7 @@ The diversity and amount of content from each meetup has never failed to introdu
 that discussed the inner workings of a large cloud platform to more non-technical talks about the developer's lifestyle.
 I'm constantly enamored when a speaker is able to break down an absolutely complex idea down and present that to a captivated
 audience, experienced or not. Now listening to a talk hasn't made me a professional in any way but it has
-significantly sped up my learning process of some of the different elements of programming and problem solving.
+significantly sped up my learning process in understanding some of the more advanced topics.
 
 # Cons
 **Confusing topics and talks**
@@ -37,7 +37,7 @@ Sometimes a talk is just outside my current understanding of a specific topic. O
 at the time I remember I was just covering general MVC and this talk about how Jenkins was used within their app was
 outside my depth. I understood maybe 25% of what they were talking about but I made sure to write a quick note to see
 if I would be able to find some description when I got back home. It's not much of a con in the long run but it does feel
-like one when you're sitting there with the speaker's words goign right over your head.
+like one when you're sitting there with the speaker's words going right over your head.
 
 **Costs**
 
@@ -48,7 +48,7 @@ out of pocket may be the only way.
 # Conclusion
 
 It's has always been a beneficial experience for me. They're a clear reminder of how little I know in the grand scheme of things
-but attending friendly engaging talks are always welcomed. There were disproportionately many more talks that I have enjoyed
+but I do feel more confident after an insightful and engaging talk. There were disproportionately many more talks that I have enjoyed
 compared to those I haven't. I have had the chance to talk to professionals in many different fields, touch on a countless
 number of topics and have thoroughly enjoyed my time at each meetup.
 

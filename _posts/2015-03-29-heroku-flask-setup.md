@@ -114,5 +114,10 @@ to Heroku's database.
 For example, if I wanted to run Heroku's python terminal but had multiple apps on my account, I would need to use ```
 heroku run python --app MY_APP``` to run that app's python terminal.
 
+Resources/References to use:
+1. https://devcenter.heroku.com/articles/getting-started-with-python-o
+2. https://github.com/yuvadm/heroku-python-skeleton
+3. http://postgresapp.com/documentation/configuration-python.html
+
 Overall the experience of reading the docs, learning more about postgresql, sqlalchemy, and setting up Heroku felt
 like a trial by fire but at the end of the day, I feel reasonably happy that it all worked out.

@@ -23,10 +23,10 @@ A [dyno](https://devcenter.heroku.com/articles/dynos#dynos) is Heroku's form of 
 app on Heroku and manage data using [SQLite](https://www.sqlite.org/about.html), SQLite saves the data to a file (ex. mydata.db). This file lives in a file system
 which is cleaned out periodically, resulting in a database that is unable to hold data for more than a [day](https://devcenter.heroku.com/articles/sqlite3).
 
-Problem #2: "Hero- what?" What is Heroku and What in the world is a Procfile?
+Problem #2: "Hero- what?" What is Heroku and what in the world is a Procfile?
 
 Heroku is a PaaS or platform as a service. The company provides a cloud environment for users to create and host apps. The goal for many PaaS companies is to reduce the
-developer's time in setting up an infrastructure so that he/she can focus on the actual application. Heroku isn't the only cloud platform available, as there are other
+developer's time in setting up the infrastructure so that he/she can focus on the actual application. Heroku isn't the only cloud platform available, as there are other
 companies such as OpenShift, Azure, and App Engine. Which brings us to the next question, what is a Procfile?
 
 > Procfile is a mechanism for declaring what commands are run by your application’s dynos on the Heroku platform.

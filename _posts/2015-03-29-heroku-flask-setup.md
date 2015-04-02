@@ -102,9 +102,10 @@ heroku run python --app MY_APP``` to run MY_APP's python terminal. Heroku also c
 account.
 
 Resources/References to use:
-1. https://devcenter.heroku.com/articles/getting-started-with-python-o
-2. https://github.com/yuvadm/heroku-python-skeleton
-3. http://postgresapp.com/documentation/configuration-python.html
+
+1. [Running Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python-o)
+2. [Python Example Project Skeleton](https://github.com/yuvadm/heroku-python-skeleton)
+3. [Postgresql+Python](http://postgresapp.com/documentation/configuration-python.html)
 
 Overall the experience of reading the docs, learning more about postgresql, sqlalchemy, and setting up Heroku felt like a trial by fire but at the end of the day, I
 felt reasonably happy that it all worked out.

@@ -105,7 +105,7 @@ Resources/References to use:
 
 1. [Running Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python-o)
 2. [Python Example Project Skeleton](https://github.com/yuvadm/heroku-python-skeleton)
-3. [Postgresql+Python](http://postgresapp.com/documentation/configuration-python.html)
+3. [Postgresql+Python with SQLAlchemy](http://postgresapp.com/documentation/configuration-python.html)
 
 Overall the experience of reading the docs, learning more about postgresql, sqlalchemy, and setting up Heroku felt like a trial by fire but at the end of the day, I
 felt reasonably happy that it all worked out.

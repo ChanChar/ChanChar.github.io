@@ -6,8 +6,8 @@ date: 2015-04-03
 backgrounds:
     - https://download.unsplash.com/uploads/14129863345840df499fc/0165574c
 thumb: https://unsplash.com/photos/irUQaBK3ydI/download
-categories: web scraping
-tags: python
+categories: python
+tags: web scraping
 ---
 
 ## What is unsplash?

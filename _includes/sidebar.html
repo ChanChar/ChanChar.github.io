@@ -11,7 +11,7 @@
             {% if node.title != null %}
                 {% if node.layout == "page" %}
                 <li class="sb-close {% if page.url == node.url %}active{% endif %}">
-                    <a href="{{ node.url }}">{{ node.title }}</a>
+                    <a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
                 </li>
                 {% endif %}
             {% endif %}

@@ -20,7 +20,7 @@ on their site. For web apps, I can just link to the download url and have it ren
 desktop/laptop, they need to manually be downloaded one by one. You can see where this going.
 
 I've made a web scraper for this exact purpose when I began to learn python but having found a better way to
-implement it, I thought it would try to improve on it. There are two main improvements to this version compared to
+implement it, I thought I would try to improve on it. There are two main improvements to this version compared to
 the original.
 
 1. It uses the [requests](http://docs.python-requests.org/en/latest/) package instead of [urllib2](https://docs.python.org/2/library/urllib2.html).

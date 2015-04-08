@@ -1,11 +1,28 @@
 ---
-layout: page
+layout: default
 title: 404
 backgrounds:
     - https://download.unsplash.com/45/eDLHCtzRR0yfFtU0BQar_sylwiabartyzel_themap.jpg
 ---
-{% if page.url == "/404.html" %}
-<meta http-equiv="refresh" content="5; url=/">
-{% endif %}
 
-<p>This page does not exist! Let's get you back on track. Redirecting in three, two, one.</p>
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+<main id="sb-site">
+
+    {% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
+    <h1>404 Error</h1>
+    <h3>This page does not exist! Let's get you back on track. Redirecting in three, two, one.</h3>
+
+</main>
+
+{% include js.html %}
+</body>
+
+</html>

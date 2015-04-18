@@ -6,8 +6,8 @@ date: 2015-04-17
 backgrounds:
     - https://download.unsplash.com/photo-1428591501234-1ffcb0d6871f
 thumb: https://download.unsplash.com/3/doctype-hi-res.jpg
-categories: general
-tags: SF
+categories: general, python, projects
+tags: SF, django
 ---
 
 # I'm in San Francisco.

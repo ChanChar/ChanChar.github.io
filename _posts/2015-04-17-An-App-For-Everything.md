@@ -65,3 +65,5 @@ contributor of this project because of how useful it's going to be for the instr
 students that want to learn Python through this class. **If it's a platform to provide education, I am all for it**.
 Using Django should be a blast and I'm excited to pick up concepts along the way.
 
+4/18 Update: Google Express is pretty awesome. Items from four different stores delivered to my front
+door + an awesome chat with the delivery guy about his trip to Disney back when he visited LA. 

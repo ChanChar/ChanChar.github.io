@@ -27,7 +27,7 @@ the original.
 This not only cleaned up the code but made it significantly easier for a new programmer to read the code. Although the
 variable names could use work, the overall code just flows.
 
-2. It uses LXML instead of JSON. This wasn't a particulary significant change but I did have to learn how XPath and
+2. It uses LXML instead of JSON. This wasn't a particularly significant change but I did have to learn how XPath and
 parsing through html trees worked.
 
 Here's the program:

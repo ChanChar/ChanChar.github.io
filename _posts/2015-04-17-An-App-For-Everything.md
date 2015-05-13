@@ -5,7 +5,7 @@ title: "An App for Everything"
 date: 2015-04-17
 backgrounds:
     - https://download.unsplash.com/photo-1428591501234-1ffcb0d6871f
-thumb: https://download.unsplash.com/3/doctype-hi-res.jpg
+thumb: https://www.dropbox.com/s/o395ug3shes7qir/everything_app_thumb.jpg?dl=1
 categories: general, python, projects
 tags: SF, django
 ---
@@ -66,4 +66,4 @@ students that want to learn Python through this class. **If it's a platform to p
 Using Django should be a blast and I'm excited to pick up concepts along the way.
 
 4/18 Update: Google Express is pretty awesome. Items from four different stores delivered to my front
-door + an awesome chat with the delivery guy about his trip to Disney back when he visited LA. 
+door + an awesome chat with the delivery guy about his trip to Disney back when he visited LA.

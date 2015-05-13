@@ -5,7 +5,7 @@ title: "Scrape Unsplash 2.0"
 date: 2015-04-03
 backgrounds:
     - https://download.unsplash.com/uploads/14129863345840df499fc/0165574c
-thumb: https://unsplash.com/photos/irUQaBK3ydI/download
+thumb: https://www.dropbox.com/s/m2hdbqs04y8v677/scrap_unsplash_thumb.jpg?dl=1
 categories: python
 tags: web scraping
 ---

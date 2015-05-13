@@ -5,7 +5,7 @@ title: "Rmotr Recap"
 date: 2015-04-10
 backgrounds:
     - https://download.unsplash.com/photo-1418479631014-8cbf89db3431
-thumb: https://download.unsplash.com/3/alejandroescamilla-book.jpg
+thumb: https://www.dropbox.com/s/g86xusd1wflcb8o/rmotr_recap_thumb.jpg?dl=1
 categories: python
 tags: rmotr
 ---

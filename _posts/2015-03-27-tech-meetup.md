@@ -4,7 +4,7 @@ title: "Meetups and Reminders"
 date: 2015-03-27
 backgrounds:
     - https://download.unsplash.com/photo-1421977870504-378093748ae6
-thumb: http://images4.alphacoders.com/278/278856.jpg
+thumb: https://www.dropbox.com/s/j6xz8vr27cmovad/tech_meetup_thumb.jpg?dl=1
 categories: social
 tags: programming, meetup
 ---

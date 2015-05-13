@@ -4,7 +4,7 @@ title: "Preparations Inbound"
 date: 2015-03-10
 backgrounds:
     - https://unsplash.imgix.net/photo-1423592707957-3b212afa6733?q=75&fm=jpg&s=a3d57be3c4a2260270db50f162d2f0fe
-thumb: https://unsplash.imgix.net/photo-1422949262308-76e6e4906af4?q=75&fm=jpg&s=d2d6e486e3d4475b74e8a839aa2543ea
+thumb: https://www.dropbox.com/s/89bt2io919xdhlx/investment_thumb.jpeg?dl=1
 categories: general, programming
 tags: life, rmotr, apple, python
 ---

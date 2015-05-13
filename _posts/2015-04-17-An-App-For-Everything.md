@@ -4,7 +4,7 @@ comments: true
 title: "An App for Everything"
 date: 2015-04-17
 backgrounds:
-    - https://download.unsplash.com/photo-1428591501234-1ffcb0d6871f
+    - https://www.dropbox.com/s/vq2vuh8yjmn3o2v/everything_app_bg.jpeg?dl=1
 thumb: https://www.dropbox.com/s/o395ug3shes7qir/everything_app_thumb.jpg?dl=1
 categories: general, python, projects
 tags: SF, django

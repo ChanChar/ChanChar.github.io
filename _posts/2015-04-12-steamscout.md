@@ -4,7 +4,7 @@ comments: true
 title: "Project: SteamScout"
 date: 2015-04-12
 backgrounds:
-    - http://www.hdwallpapers.in/walls/evolve_2015_game-wide.jpg
+    - https://www.dropbox.com/s/xa7f0j253907ck4/steamscount_bg.jpg?dl=1
 thumb: https://www.dropbox.com/s/4elfd4cju8fv31d/steam_logo_thumb.png?dl=1
 categories: projects
 tags: rmotr, flask, postgresql, redis, celery, sqlalchemy

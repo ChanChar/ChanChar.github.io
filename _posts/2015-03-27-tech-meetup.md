@@ -3,7 +3,7 @@ layout: post
 title: "Meetups and Reminders"
 date: 2015-03-27
 backgrounds:
-    - https://download.unsplash.com/photo-1421977870504-378093748ae6
+    - https://www.dropbox.com/s/pa6iuwiehy8pyzh/meetups_bg.jpeg?dl=1
 thumb: https://www.dropbox.com/s/j6xz8vr27cmovad/tech_meetup_thumb.jpg?dl=1
 categories: social
 tags: programming, meetup

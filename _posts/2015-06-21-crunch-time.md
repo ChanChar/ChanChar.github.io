@@ -195,6 +195,6 @@ non-heroku domain name. Currently it should be in maintenance mode but once I've
 That's a wrap. One month's worth of post in less than 30 minutes of reading time.  
 I'm hoping my next post will shed some light on how I feel in my progress in becoming a developer. I'll also be sure to share some of the awesome libraries that I hope to incorporate into my project.
 
-Note: Cloudinary is awesome of image/video hosting. My site feel faster. No more redirects for images for me. YESSSSSSSSSSSS.
+Note: Cloudinary is awesome of image/video hosting. The site feels faster. No more redirects for images for me. YESSSSSSSSSSSS.
 
 Note 2: I love CompositeViews.

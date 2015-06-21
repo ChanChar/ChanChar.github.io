@@ -3,9 +3,9 @@ layout: post
 comments: true
 title: "Rmotr Recap"
 date: 2015-04-10
-backgrounds: https://www.dropbox.com/s/f09b0oxlqjdh3y6/rmotr_recap.bg.jpeg?dl=1
-    - https://www.dropbox.com/s/f09b0oxlqjdh3y6/rmotr_recap.bg.jpeg?dl=1
-thumb: https://www.dropbox.com/s/g86xusd1wflcb8o/rmotr_recap_thumb.jpg?dl=1
+backgrounds:
+    - http://res.cloudinary.com/charliecloud/image/upload/v1434915152/charblog/rmotr_recap.bg.jpg
+thumb: http://res.cloudinary.com/charliecloud/image/upload/v1434915151/charblog/rmotr_recap_thumb.jpg
 categories: python
 tags: rmotr
 ---

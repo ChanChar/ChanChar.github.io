@@ -4,8 +4,8 @@ comments: true
 title: "Deploying Flask on Heroku - Pitfalls"
 date: 2015-03-29
 backgrounds:
-    - https://www.dropbox.com/s/npjvv9xvf2ftrz2/heroku_setup_bg.JPG?dl=1
-thumb: https://www.dropbox.com/s/jdbhn4h75vzpn3m/deploying_flask_thumb.JPG?dl=1
+    - http://res.cloudinary.com/charliecloud/image/upload/v1434915153/charblog/heroku_setup_bg.jpg
+thumb: http://res.cloudinary.com/charliecloud/image/upload/v1434915150/charblog/deploying_flask_thumb.jpg
 categories: heroku, web development
 tags: flask, python, postgresql, sqlalchemy
 ---

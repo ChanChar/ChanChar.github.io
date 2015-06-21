@@ -9,15 +9,15 @@ backgrounds:
 ### The Basics
 Charles C. Lee  
 CA, USA  
-[Twitter](https://twitter.com/ReallyChar), [Github](https://github.com/ChanChar)  
+[Twitter](https://twitter.com/ReallyChar), [Github](https://github.com/ChanChar)
 
 ### Purpose
 
 I decided to write this year as an exercise in visualizing and writing down my thoughts. This blog serves as a collection
 of events, reminders and lessons that I would like to keep a record of. It may also double as a platform for me to display
-any projects that I build. 
+any projects that I build.
 
 ### Acknowledgements
 
-I want to thank [Dmitry Zelinsky](https://dribbble.com/dddzzzru) for this site design, [Salvatore Gentile](https://github.com/SalGnt) 
+I want to thank [Dmitry Zelinsky](https://dribbble.com/dddzzzru) for this site design, [Salvatore Gentile](https://github.com/SalGnt)
 for the base layout and [Unsplash](https://unsplash.com/) for the all the beautiful pictures that may appear on this site.

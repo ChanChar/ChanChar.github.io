@@ -4,8 +4,8 @@ comments: true
 title: "Scrape Unsplash 2.0"
 date: 2015-04-03
 backgrounds:
-    - https://www.dropbox.com/s/3q8oilg2jfsvnic/unsplash_bg.jpeg?dl=1
-thumb: https://www.dropbox.com/s/m2hdbqs04y8v677/scrap_unsplash_thumb.jpg?dl=1
+    - http://res.cloudinary.com/charliecloud/image/upload/v1434915152/charblog/unsplash_bg.jpg
+thumb: http://res.cloudinary.com/charliecloud/image/upload/v1434915151/charblog/scrap_unsplash_thumb.jpg
 categories: python
 tags: web scraping
 ---

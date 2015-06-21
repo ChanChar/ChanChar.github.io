@@ -4,8 +4,8 @@ comments: true
 title: "Project: SteamScout"
 date: 2015-04-12
 backgrounds:
-    - https://www.dropbox.com/s/xa7f0j253907ck4/steamscount_bg.jpg?dl=1
-thumb: https://www.dropbox.com/s/4elfd4cju8fv31d/steam_logo_thumb.png?dl=1
+    - http://res.cloudinary.com/charliecloud/image/upload/v1434915152/charblog/steamscount_bg.jpg
+thumb: http://res.cloudinary.com/charliecloud/image/upload/v1434915151/charblog/steam_logo_thumb.png
 categories: projects
 tags: rmotr, flask, postgresql, redis, celery, sqlalchemy
 ---
@@ -98,5 +98,3 @@ Due to the extended costs of running a worker on Heroku, we sadly had to take ou
 presentation. However, a running local instance can be used replicate the same full functionality. Cloning the repo
 onto a local environment, installing all the needed modules from requirements.txt and setting up a redis server are
 the only things needed to get it up and running.
-
-

@@ -3,8 +3,8 @@ layout: post
 title: "Crawling Development in Flask"
 date: 2015-03-13
 backgrounds:
-    - https://www.dropbox.com/s/47u63a81g1zhg0d/rmotrflask_bg.jpeg?dl=1
-thumb: https://www.dropbox.com/s/t7781k1q6cw2y4q/rmotr_flask_thumb.jpg?dl=1
+    - http://res.cloudinary.com/charliecloud/image/upload/v1434915151/charblog/rmotrflask_bg.jpg
+thumb: http://res.cloudinary.com/charliecloud/image/upload/v1434915150/charblog/rmotr_flask_thumb.jpg
 categories: general, programming
 tags: flask, rmotr, python
 ---
@@ -41,5 +41,3 @@ grasp the use of an ORM than to learn vanilla SQL commands.
 
 I believe we're roughly 70% done with our project with a week's worth of time left. This week was overall a win for us after
 fighting in the trenches of unknown APIs, authentications and project management.
-
-

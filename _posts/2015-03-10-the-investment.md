@@ -3,8 +3,8 @@ layout: post
 title: "Preparations Inbound"
 date: 2015-03-10
 backgrounds:
-    - https://www.dropbox.com/s/lyifhukltm6fwds/theinvestment_bg.jpeg?dl=1
-thumb: https://www.dropbox.com/s/89bt2io919xdhlx/investment_thumb.jpeg?dl=1
+    - http://res.cloudinary.com/charliecloud/image/upload/v1434915152/charblog/theinvestment_bg.jpg
+thumb: http://res.cloudinary.com/charliecloud/image/upload/v1434915150/charblog/investment_thumb.jpg
 categories: general, programming
 tags: life, rmotr, apple, python
 ---
@@ -28,7 +28,7 @@ needs to step aside for...my very first Macbook.
 I have been saving a percentage of any money I received into a new laptop fund. I had enough to buy one for some time now
 but I waited for Apple's Spring Forward presentation in case there were any changes I should know about.  After researching and scouring the web
 for what seemed to be the "best" buy, the new retina macbook pro won me over. I am now patiently waiting for the 8gb 256ssd beautiful
-laptop to be delivered. It seems to be the most appropriate when developing web apps and has the added benefit that MacOS is a *nix based
+laptop to be delivered. It seems to be the most appropriate when developing web apps and has the added benefit that MacOS is a \*nix based
 system. Goodbye to command prompt, hello to terminal.
 
 ## Project Crunch Time

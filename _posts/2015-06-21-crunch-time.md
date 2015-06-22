@@ -198,3 +198,9 @@ I'm hoping my next post will shed some light on how I feel in my progress in bec
 Note: Cloudinary is awesome of image/video hosting. The site feels faster. No more redirects for images for me. YESSSSSSSSSSSS.
 
 Note 2: I love CompositeViews.
+
+Good read(s) from the past week:
+
+[Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+[Future Web Design Trends](https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355)
+[Full Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)

@@ -17,3 +17,9 @@ However, simply memorizing components is going to be detrimental in the long run
 I can answer the question of 'Am I a software developer?' with a firm yes. Am I the best developer, not by a long shot but I feel a sense of affirmation that I do want to dedicate my life within this field. This experience so far has been simply one of the few steps that I've taken towards becoming a better developer.
 
 In other news, I've organized a small trip to a nearby Korean BBQ restaurant later this afternoon for a small group of classmates. It should be a nice breather before diving into the last phase of the program.
+
+I can already imagine applying to various companies with the hope of earning the title as a software developer.
+This is going to be fun.  
+
+Good read(s) from the past week:    
+[The Most Important Skill in Software](http://www.johndcook.com/blog/2015/06/18/most-important-skill-in-software/)

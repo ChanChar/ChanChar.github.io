@@ -6,9 +6,10 @@ backgrounds:
     - http://res.cloudinary.com/charliecloud/image/upload/v1434952773/about-page_b989ck.jpg
 ---
 
-### The Basics
-Charles C. Lee  
-CA, USA  
+### Hey, I'm Charlie (or Charles, Chuck, Chan).
+
+I am a web developer who mainly works primarily with Ruby on Rails and Backbone.js. My past projects have been built using Rails, Backbone, or Flask (and also HTML, CSS). If you want to collaborate on an awesome project, feel free to reach out!
+
 [Twitter](https://twitter.com/ReallyChar), [Github](https://github.com/ChanChar)
 
 ### Purpose

@@ -21,5 +21,5 @@ In other news, I've organized a small trip to a nearby Korean BBQ restaurant lat
 I can already imagine applying to various companies with the hope of earning the title as a software developer.
 This is going to be fun.  
 
-Good read(s) from the past week:    
+Good read(s) from the past week:
 [The Most Important Skill in Software](http://www.johndcook.com/blog/2015/06/18/most-important-skill-in-software/)

@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "App Academy Month Recap I"
 date: 2015-06-21
 backgrounds:

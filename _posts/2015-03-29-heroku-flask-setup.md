@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "Deploying Flask on Heroku - Pitfalls"
 date: 2015-03-29
 backgrounds:

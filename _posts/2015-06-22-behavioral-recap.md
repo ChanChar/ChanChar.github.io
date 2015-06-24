@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "Current Outlook"
 date: 2015-06-22
 backgrounds:

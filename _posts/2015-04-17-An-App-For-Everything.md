@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "An App for Everything"
 date: 2015-04-17
 backgrounds:

@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "Scrape Unsplash 2.0"
 date: 2015-04-03
 backgrounds:

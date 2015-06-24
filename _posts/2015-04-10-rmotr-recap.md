@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "Rmotr Recap"
 date: 2015-04-10
 backgrounds:

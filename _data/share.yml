@@ -1,10 +1,10 @@
 # RRSSB Settings
-facebook: true
-twitter: true
-googleplus: true
-linkedin: true
+facebook: false
+twitter: false
+googleplus: false
+linkedin: false
 reddit: false
 pinterest: false
 tumblr: false
-pocket: true
+pocket: false
 email: false

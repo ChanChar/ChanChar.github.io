@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "Project: SteamScout"
 date: 2015-04-12
 backgrounds:

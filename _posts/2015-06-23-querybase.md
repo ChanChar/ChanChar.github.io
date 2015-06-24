@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "Project: QueryBase"
 date: 2015-06-24
 backgrounds:

@@ -11,7 +11,7 @@ tags: Space Invaders
 
 Play it now at [SpaceInvaders](http://charleschanlee.me/SpaceInvadersJS/)! I've decided to keep of list of features to work on at a future date. The list can be found on [github](https://github.com/ChanChar/SpaceInvadersJS).
 
-![Space Invaders Welcome Screen](http://res.cloudinary.com/charliecloud/image/upload/v1436068077/user-profile-images/Screen_Shot_2015-07-04_at_8.45.50_PM_iljdtu.png)
+[![Space Invaders Welcome Screen](http://res.cloudinary.com/charliecloud/image/upload/v1436068077/user-profile-images/Screen_Shot_2015-07-04_at_8.45.50_PM_iljdtu.png)](http://charleschanlee.me/SpaceInvadersJS/)
 
 There were mainly three objectives/challenges while building this game.
 

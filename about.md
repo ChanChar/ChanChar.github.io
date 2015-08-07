@@ -10,7 +10,7 @@ backgrounds:
 
 I am a web developer who works primarily with Ruby on Rails and Backbone.js. My past projects have been built using Rails, Backbone, or Flask (and also HTML, CSS). If you want to collaborate on an awesome project, feel free to reach out!
 
-[Twitter](https://twitter.com/ReallyChar) \| [Github](https://github.com/ChanChar) \| [Linkedin](https://www.linkedin.com/in/charleschanlee)
+[Twitter](https://twitter.com/ReallyChar) \| [Github](https://github.com/ChanChar) \| [Linkedin](https://www.linkedin.com/in/charleschanlee) \| [TheCharlie](http://www.charleschanlee.me)
 
 ### Purpose
 
